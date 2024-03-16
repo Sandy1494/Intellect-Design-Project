@@ -1,2 +1,2 @@
 # Intellect-Design-Project
-Case study of Intellect Design Arena
+Case study of Intellect Design Arena 
